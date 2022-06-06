@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\EscrituraByte-MtzBlanca\EscrituraByte\obj\Debug\EscrituraByte.pdb
